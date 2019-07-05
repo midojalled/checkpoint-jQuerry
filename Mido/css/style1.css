@@ -1,0 +1,214 @@
+body{
+    background: 
+    Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+Linear-gradient(127deg, black, black 70.71%),
+Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+}
+.site2 {
+    display: inline;
+        
+        margin-left: 40px;
+        margin-right: 40px;
+        width: 24cm;
+        color: white;
+  }
+
+a {
+    text-decoration: none;
+  }
+  a {
+    display: inline-block;
+    text-decoration: none;
+  }
+  h1{
+    display: inline;
+    margin-left: 40px;
+    margin-right: 40px;
+    width: 24cm;
+    color: white;
+     }
+.course4 {
+    width: 250px;
+    height: 250px;
+    margin-left: 50px;
+    display: inline-block;
+    background-image: url(4.png);
+    background-size: cover;
+    overflow: hidden;
+  
+  }
+  .course5 {
+    width: 250px;
+    height: 250px;
+    margin-left: 50px;
+    display: inline-block;
+    background-image: url(5.png);
+    background-size: cover;
+    overflow: hidden;
+  
+  }
+  .course6 {
+    width: 250px;
+    height: 250px;
+    margin-left: 50px;
+    display: inline-block;
+    background-image: url(6.png);
+    background-size: cover;
+    overflow: hidden;
+  
+  }
+  .course7 {
+    width: 250px;
+    height: 250px;
+    margin-left: 50px;
+    display: inline-block;
+    background-image: url(7.png);
+    background-size: cover;
+    overflow: hidden;
+    
+  
+  }
+  .op { 
+    color: rgb(255, 255, 255);
+    font-size: 3cm;
+    font-family: 'Bree Serif', serif;
+      text-shadow: black;
+  }
+  a{
+    font-size: 1cm;
+  }
+  .course1 {
+    size: 200px;
+    width: 250px;
+    height: 250px;
+    margin-left: 50px;
+    display: inline-block;
+    background-image: url(3.png);
+    background-size: cover;
+    overflow: hidden;
+  }
+  .course2 {
+    width: 250px;
+    height: 250px;
+    margin-left: 50px;
+    display: inline-block;
+    background-image: url(2.png);
+    background-size: cover;
+    overflow: hidden;
+
+  }
+  .course3 {
+    width: 250px;
+    height: 250px;
+    margin-left: 50px;
+    display: inline-block;
+    background-image: url(1.png);
+    background-size: cover;
+    overflow: hidden;
+
+  }
+  .BDC:hover{
+    color: red;
+  }
+  .cover{
+    height: 550px;
+    
+    background-image: url(webdev3.png);
+    /* background-size: cover; */
+ }
+
+.cover .heading {
+font-size: 6em;
+font-family: 'Bree Serif', serif;
+color: #fff;
+position: static ;
+top: 10%;
+text-shadow: 5px 2px rgb(12, 11, 11);
+
+}
+  .course8 {
+    width: 250px;
+    height: 250px;
+    margin-left: 50px;
+    display: inline-block;
+    background-image: url(8.png);
+    background-size: cover;
+    overflow: hidden;
+  
+  }
+  .course9 {
+    width: 250px;
+    height: 250px;
+    margin-left: 50px;
+    display: inline-block;
+    background-image: url(9.png);
+    background-size: cover;
+    overflow: hidden;
+  }
+    .u {
+      margin-top: 120px;
+      display: none ;
+    }
+    .course4:hover{
+      opacity: 0.5 ;
+    }
+    .i {
+      margin-top: 120px;
+      display: none;
+    }
+    .course1:hover{
+      opacity: 0.5 ;
+    }
+  
+  .m {
+    margin-top: 120px;
+    display: none;
+  }
+  .course3:hover{
+    opacity: 0.5 ;
+  }
+  .n {
+    margin-top: 120px;
+    display: none;
+  }
+  .course2:hover{
+    opacity: 0.5 ;
+    
+  }
+  .y {
+    margin-top: 120px;
+    display: none;
+  }
+  .course5:hover{
+    opacity: 0.5 ;
+  }
+  .r {
+    margin-top: 120px;
+    display: none;
+  }
+  .course6:hover{
+    opacity: 0.5 ;
+  }
+  
+  .e {
+    margin-top: 120px;
+    display: none;
+  }
+  .course7:hover{
+    opacity: 0.5 ;
+  }
+  .x {
+    margin-top: 120px;
+    display: none;
+  }
+  .course8:hover{
+    opacity: 0.5 ;
+  }
+  .t {
+    margin-top: 120px;
+    display: none;
+  }
+  .course9:hover{
+    opacity: 0.5 ;
+  }
+  

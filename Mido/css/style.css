@@ -1,0 +1,150 @@
+body{
+    background: 
+    Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+Linear-gradient(127deg, black, black 70.71%),
+Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+}
+h1 {
+    display: inline;
+      margin-left: 40px;
+      margin-right: 40px;
+      width: 24cm;
+      color: white;
+       
+}
+.BDC:hover{
+  color: red;
+}
+
+
+  .image {
+    widows: 200px; 
+    height: 720px;
+  }
+  .image² {
+    widows: 200px;
+    height: 720px;
+  
+  }
+  .mi{
+    text-align:center;
+    font-style: italic;
+    color: white;
+    font-size: 3cm;
+    
+  }
+  .btnCourse1{
+      margin-top: 120px;
+    font-size: 40px;
+    color: blue;
+    display: inline-block;
+  }
+  a{
+    font-size: 1cm;
+  }
+  .course1 {
+    size: 200px;
+    width: 250px;
+    height: 250px;
+    margin-left: 50px;
+    display: inline-block;
+    background-image: url(3.png);
+    background-size: cover;
+    overflow: hidden;
+  }
+  .course2 {
+    width: 250px;
+    height: 250px;
+    margin-left: 50px;
+    display: inline-block;
+    background-image: url(2.png);
+    background-size: cover;
+    overflow: hidden;
+
+  }
+  .course3 {
+    width: 250px;
+    height: 250px;
+    margin-left: 50px;
+    display: inline-block;
+    background-image: url(1.png);
+    background-size: cover;
+    overflow: hidden;
+
+  }
+  a {
+    text-decoration: none;
+  }
+  .mido {
+    display: inline-block;
+  }
+#a2 {
+  margin-left: 40px;
+      margin-right: 40px;
+    }
+    a {
+      display: inline-block;
+      text-decoration: none;
+    }
+    h1{
+      display: inline;
+      margin-left: 40px;
+      margin-right: 40px;
+      width: 24cm;
+      color: white;
+       }
+       .plans2{
+        display: inline-block;
+       }
+       .cover{
+          height: 550px;
+          
+          background-image: url(webdev3.png);
+          /* background-size: cover; */
+       }
+      
+.cover .heading {
+  font-size: 6em;
+  font-family: 'Bree Serif', serif;
+  color: #fff;
+  position: static ;
+  top: 10%;
+  text-shadow: 5px 2px rgb(12, 11, 11);
+  
+}
+
+.heading {
+  color: rgb(34, 50, 95);
+  font-size: 4em;
+  font-family: 'Bree Serif', serif;
+ 
+  
+  
+    text-shadow: black;
+}
+label {
+display: inline-block;
+max-width: 100%;
+margin-bottom: 5px;
+font-weight: 700;
+color: white;
+
+}
+.site2 {
+  display: inline;
+      
+      margin-left: 40px;
+      margin-right: 40px;
+      width: 24cm;
+      color: white;
+}
+textarea {
+  width:  35%;
+  height: 50px;
+}
+.op { 
+  color: rgb(255, 255, 255);
+  font-size: 3cm;
+  font-family: 'Bree Serif', serif;
+    text-shadow: black;
+}
